@@ -18,8 +18,8 @@ const About = () => {
             started getting into coding in 2018, a year after I graduated. I
             liked the idea of being able to see the change i create rather than
             the longer R&D process associated with my degree in Aerospace
-            Engineering - turns out I'm pretty good at explaining concepts in
-            tech too !
+            Engineering - turns out I&aposm pretty good at explaining concepts
+            in tech too !
           </p>
           <p>
             Throughout those 4 years, and I have enjoyed the privilege of
@@ -28,7 +28,7 @@ const About = () => {
             innovating solutions, leading teams and striving for best practices
           </p>
           <p>
-            I've Also experienced work at an
+            I&aposve Also experienced work at an
             <span className="text-textGreen"> Investment Banks</span> and a{" "}
             <span className="text-textGreen"> Stock Exchange </span> supporting
             ETL Processes and helping deliver timely solutions in the frontend
@@ -39,7 +39,7 @@ const About = () => {
             tech, learning from my experiences At the moment its free, All I ask
             is that you take an
             <span className="text-textGreen"> Assessment</span> so I can see
-            where we're starting from!
+            where we&aposre starting from!
           </p>
           <p> Here are a few technologies I have been working with recently:</p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
