@@ -1,6 +1,6 @@
 import React from "react";
 import SectionTitle from "./SectionTitle";
-import { AiFillThunderbolt } from "react-icons/ai";
+import { FaCode } from "react-icons/fa";
 import { ProfileImg } from "@/public/assets";
 import Image from "next/image";
 
@@ -45,61 +45,61 @@ const About = () => {
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
-                <AiFillThunderbolt />
+                <FaCode />
               </span>
               JavaScript (ES6+)
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
-                <AiFillThunderbolt />
+                <FaCode />
               </span>
               Java
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
-                <AiFillThunderbolt />
+                <FaCode />
               </span>
               TypeScript
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
-                <AiFillThunderbolt />
+                <FaCode />
               </span>
               Python
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
-                <AiFillThunderbolt />
+                <FaCode />
               </span>
               React
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
-                <AiFillThunderbolt />
+                <FaCode />
               </span>
               C# (.Net 6)
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
-                <AiFillThunderbolt />
+                <FaCode />
               </span>
               SQL
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
-                <AiFillThunderbolt />
+                <FaCode />
               </span>
               Docker
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
-                <AiFillThunderbolt />
+                <FaCode />
               </span>
               Azure
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
-                <AiFillThunderbolt />
+                <FaCode />
               </span>
               AWS
             </li>
