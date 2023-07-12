@@ -18,50 +18,38 @@ const Archive = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 mt-10 lgl:px-10">
         <ArchiveCard
           title="Movie Review System"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
-            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
-            inventore iste id ex labore"
+          des="A Movie review system leveraging Java and mongoDb for the backend services and the database, presenting the movie reviews via react"
           listItem={["Reactjs", "Java", "MongoDB"]}
           link=""
         />
         <ArchiveCard
           title="Uber Analytics"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
-            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
-            inventore iste id ex labore"
-          listItem={["Python", "Kafka"]}
+          des="An Uber analysis system, covering results for Uber in a given area  checking fares as well as standard rates over a given time"
+          listItem={["Python", "Django", "Kafka"]}
           link=""
         />
         <ArchiveCard
           title="Cocktail Website"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
-            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
-            inventore iste id ex labore"
-          listItem={["Reactjs", "Redux Toolkit"]}
+          des="Look through some of my favourite cocktails in London and the price and where you can find them!"
+          listItem={["Reactjs", "Redux Toolkit", "Axios"]}
           link=""
         />
         <ArchiveCard
-          title="Movie Review System"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
-            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
-            inventore iste id ex labore"
-          listItem={["Reactjs", "Java", "MongoDB"]}
+          title="Todo List"
+          des="A simple NextJs ToDo List covering projects that I need to complete"
+          listItem={["NextJs", "MongoDB", "Vercel"]}
           link=""
         />
         <ArchiveCard
-          title="Movie Review System"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
-            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
-            inventore iste id ex labore"
-          listItem={["Reactjs", "Java", "MongoDB"]}
+          title="Data Analytics Dashboard"
+          des="A MERN stack data analytics dashboard providing insights for digital marketting leveraging experience from a role before my programming career"
+          listItem={["MongoDB", "React", "Node"]}
           link=""
         />
         <ArchiveCard
-          title="Movie Review System"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
-            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
-            inventore iste id ex labore"
-          listItem={["Reactjs", "Java", "MongoDB"]}
+          title="Ecommerce"
+          des="An ECommerce Platform providing the ability to buy and sell products. Using SingalR for real time updates through a front end back end and database"
+          listItem={["Reactjs", ".NET 6", "TypeScript"]}
           link=""
         />
 
@@ -73,7 +61,7 @@ const Archive = () => {
               transition={{ delay: 0.1 }}
             >
               <ArchiveCard
-                title="Movie Review System"
+                title="Hotel Management System"
                 des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
@@ -87,7 +75,7 @@ const Archive = () => {
               transition={{ delay: 0.2 }}
             >
               <ArchiveCard
-                title="Movie Review System"
+                title="Food Order App"
                 des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
@@ -101,7 +89,7 @@ const Archive = () => {
               transition={{ delay: 0.3 }}
             >
               <ArchiveCard
-                title="Movie Review System"
+                title="Restuarant App"
                 des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
@@ -115,7 +103,7 @@ const Archive = () => {
               transition={{ delay: 0.4 }}
             >
               <ArchiveCard
-                title="Movie Review System"
+                title="Amazon Clone"
                 des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
@@ -129,7 +117,7 @@ const Archive = () => {
               transition={{ delay: 0.5 }}
             >
               <ArchiveCard
-                title="Movie Review System"
+                title="Crypto Trading"
                 des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
@@ -143,7 +131,7 @@ const Archive = () => {
               transition={{ delay: 0.6 }}
             >
               <ArchiveCard
-                title="Movie Review System"
+                title="Tic Tac Toe"
                 des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
@@ -157,7 +145,7 @@ const Archive = () => {
               transition={{ delay: 0.7 }}
             >
               <ArchiveCard
-                title="Movie Review System"
+                title="Monte Carlo Option Pricing"
                 des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
@@ -168,10 +156,38 @@ const Archive = () => {
             <motion.div
               initial={{ opacity: 0 }}
               whileInView={{ opacity: 1 }}
-              transition={{ delay: 0.8 }}
+              transition={{ delay: 0.7 }}
             >
               <ArchiveCard
-                title="Movie Review System"
+                title="Bible App"
+                des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
+            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
+            inventore iste id ex labore"
+                listItem={["Reactjs", "Java", "MongoDB"]}
+                link=""
+              />
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0 }}
+              whileInView={{ opacity: 1 }}
+              transition={{ delay: 0.7 }}
+            >
+              <ArchiveCard
+                title="Procrastination App"
+                des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
+            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
+            inventore iste id ex labore"
+                listItem={["Reactjs", "Java", "MongoDB"]}
+                link=""
+              />
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0 }}
+              whileInView={{ opacity: 1 }}
+              transition={{ delay: 0.7 }}
+            >
+              <ArchiveCard
+                title="Gym App"
                 des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
