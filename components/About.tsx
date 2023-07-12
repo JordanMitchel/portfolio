@@ -1,6 +1,6 @@
 import React from "react";
 import SectionTitle from "./SectionTitle";
-import { AiFillThunderbolt } from "react-icons/Ai";
+import { AiFillThunderbolt } from "react-icons/ai";
 import { ProfileImg } from "@/public/assets";
 import Image from "next/image";
 
