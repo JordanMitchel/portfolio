@@ -14,7 +14,7 @@ const Projects = () => {
           <div className="flex flex-col xl:flex-row gap-6">
             <a
               className="w-full xl:w-1/2 h-auto relative group"
-              href="https://nextamazon.reactbd.com/"
+              href="https://blog-posts-jordanmitchel.vercel.app/"
               target="_blank"
             >
               <div>
@@ -40,7 +40,7 @@ const Projects = () => {
               <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
                 <li>NextJs</li>
                 <li>TypeScript</li>
-                <li>MongoDb</li>
+                <li>Sanity.io</li>
                 <li>Vercel Deployment</li>
               </ul>
               <div className="text-2xl flex gap-4">
@@ -54,7 +54,7 @@ const Projects = () => {
                 </a>{" "}
                 <a
                   className="hover:text-textGreen duration-300"
-                  href="https://github.com/JordanMitchel/BlogPost"
+                  href="https://blog-posts-jordanmitchel.vercel.app/"
                   target="_blank"
                 >
                   {" "}
