@@ -8,7 +8,7 @@ const Archive = () => {
     <div className="max-w-contentContainer mx-auto px-4 py-24">
       <div className="w-full flex flex-col items-center">
         <h2 className="text-3xl font-titleFont font-semibold">
-          Other Noteworthy Projects
+          Projects To Do Next
         </h2>
         <p className="text-sm font-titleFont text-textGreen">
           {" "}
@@ -62,9 +62,7 @@ const Archive = () => {
             >
               <ArchiveCard
                 title="Hotel Management System"
-                des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
-            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
-            inventore iste id ex labore"
+                des="Atttempting to clone a hotel managemnt system to show off some C++ skills"
                 listItem={["Reactjs", "Java", "MongoDB"]}
                 link=""
               />
@@ -76,9 +74,7 @@ const Archive = () => {
             >
               <ArchiveCard
                 title="Food Order App"
-                des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
-            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
-            inventore iste id ex labore"
+                des="Showing off my Java Skills with a Food ordering App, my attempt at a food app called Pot Bellies"
                 listItem={["Reactjs", "Java", "MongoDB"]}
                 link=""
               />
@@ -90,9 +86,7 @@ const Archive = () => {
             >
               <ArchiveCard
                 title="Restuarant App"
-                des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
-            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
-            inventore iste id ex labore"
+                des="Another full stack project presenting a restaurant app"
                 listItem={["Reactjs", "Java", "MongoDB"]}
                 link=""
               />
@@ -104,9 +98,7 @@ const Archive = () => {
             >
               <ArchiveCard
                 title="Amazon Clone"
-                des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nemo
-            aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
-            inventore iste id ex labore"
+                des="Cloning Amazon seems like a great idea, heres my version of pulling it off!"
                 listItem={["Reactjs", "Java", "MongoDB"]}
                 link=""
               />
