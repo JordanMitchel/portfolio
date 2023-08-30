@@ -20,37 +20,37 @@ const Archive = () => {
           title="Movie Review System"
           des="A Movie review system leveraging Java and mongoDb for the backend services and the database, presenting the movie reviews via react"
           listItem={["Reactjs", "Java", "MongoDB"]}
-          link=""
+          link="/ComingSoon"
         />
         <ArchiveCard
           title="Uber Analytics"
           des="An Uber analysis system, covering results for Uber in a given area  checking fares as well as standard rates over a given time"
           listItem={["Python", "Django", "Kafka"]}
-          link=""
+          link="/ComingSoon"
         />
         <ArchiveCard
           title="Cocktail Website"
           des="Look through some of my favourite cocktails in London and the price and where you can find them!"
           listItem={["Reactjs", "Redux Toolkit", "Axios"]}
-          link=""
+          link="/ComingSoon"
         />
         <ArchiveCard
           title="Todo List"
           des="A simple NextJs ToDo List covering projects that I need to complete"
           listItem={["NextJs", "MongoDB", "Vercel"]}
-          link=""
+          link="/ComingSoon"
         />
         <ArchiveCard
           title="Data Analytics Dashboard"
           des="A MERN stack data analytics dashboard providing insights for digital marketting leveraging experience from a role before my programming career"
           listItem={["MongoDB", "React", "Node"]}
-          link=""
+          link="/ComingSoon"
         />
         <ArchiveCard
           title="Ecommerce"
           des="An ECommerce Platform providing the ability to buy and sell products. Using SingalR for real time updates through a front end back end and database"
           listItem={["Reactjs", ".NET 6", "TypeScript"]}
-          link=""
+          link="/ComingSoon"
         />
 
         {showMore && (
@@ -64,7 +64,7 @@ const Archive = () => {
                 title="Hotel Management System"
                 des="Atttempting to clone a hotel managemnt system to show off some C++ skills"
                 listItem={["Reactjs", "Java", "MongoDB"]}
-                link=""
+                link="/ComingSoon"
               />
             </motion.div>
             <motion.div
@@ -76,7 +76,7 @@ const Archive = () => {
                 title="Food Order App"
                 des="Showing off my Java Skills with a Food ordering App, my attempt at a food app called Pot Bellies"
                 listItem={["Reactjs", "Java", "MongoDB"]}
-                link=""
+                link="/ComingSoon"
               />
             </motion.div>
             <motion.div
@@ -88,7 +88,7 @@ const Archive = () => {
                 title="Restuarant App"
                 des="Another full stack project presenting a restaurant app"
                 listItem={["Reactjs", "Java", "MongoDB"]}
-                link=""
+                link="/ComingSoon"
               />
             </motion.div>
             <motion.div
@@ -100,7 +100,7 @@ const Archive = () => {
                 title="Amazon Clone"
                 des="Cloning Amazon seems like a great idea, heres my version of pulling it off!"
                 listItem={["Reactjs", "Java", "MongoDB"]}
-                link=""
+                link="/ComingSoon"
               />
             </motion.div>
             <motion.div
@@ -114,7 +114,7 @@ const Archive = () => {
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
                 listItem={["Reactjs", "Java", "MongoDB"]}
-                link=""
+                link="/ComingSoon"
               />
             </motion.div>
             <motion.div
@@ -128,7 +128,7 @@ const Archive = () => {
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
                 listItem={["Reactjs", "Java", "MongoDB"]}
-                link=""
+                link="/ComingSoon"
               />
             </motion.div>
             <motion.div
@@ -142,7 +142,7 @@ const Archive = () => {
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
                 listItem={["Reactjs", "Java", "MongoDB"]}
-                link=""
+                link="/ComingSoon"
               />
             </motion.div>
             <motion.div
@@ -156,7 +156,7 @@ const Archive = () => {
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
                 listItem={["Reactjs", "Java", "MongoDB"]}
-                link=""
+                link="/ComingSoon"
               />
             </motion.div>
             <motion.div
@@ -170,7 +170,7 @@ const Archive = () => {
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
                 listItem={["Reactjs", "Java", "MongoDB"]}
-                link=""
+                link="/ComingSoon"
               />
             </motion.div>
             <motion.div
@@ -184,7 +184,7 @@ const Archive = () => {
             aliquid reiciendis. Alias, ea vero dignissimos exercitationem quidem
             inventore iste id ex labore"
                 listItem={["Reactjs", "Java", "MongoDB"]}
-                link=""
+                link="/ComingSoon"
               />
             </motion.div>
           </>

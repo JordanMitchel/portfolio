@@ -7,6 +7,7 @@ import { MdKayaking, MdOutlineClose } from "react-icons/md";
 import { TbBrandGithub } from "react-icons/tb";
 import { BsDiscord } from "react-icons/bs";
 import { SlSocialLinkedin } from "react-icons/sl";
+import { useRouter } from "next/router";
 
 function Navbar() {
   const ref = useRef<string | any>("");
@@ -21,6 +22,7 @@ function Navbar() {
     elem?.scrollIntoView({
       behavior: "smooth",
     });
+    debugger;
 
     const links = document.querySelectorAll(".nav-link");
     links.forEach((link) => {
